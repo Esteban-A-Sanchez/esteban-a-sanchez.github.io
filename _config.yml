@@ -23,7 +23,7 @@ email: esteban.sanchez@ling-phil.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   a website about me
 baseurl: "/estebansanchez.github.io" # the subpath of your site, e.g. /blog
-url: "https://esteban-a-sanchez.github.io/estebansanchez.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://esteban-a-sanchez.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Esteban-A-Sanchez
 # Build settings
 theme: minima
