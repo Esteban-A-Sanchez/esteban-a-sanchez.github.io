@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About
+layout: home
 ---
 
 ![Alt text](assets/images/portrait.jpeg)
