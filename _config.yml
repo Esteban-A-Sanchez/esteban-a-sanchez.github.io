@@ -29,6 +29,13 @@ github_username:  Esteban-A-Sanchez
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/
+  fiction:
+    output: true
+    permalink: /fiction/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
