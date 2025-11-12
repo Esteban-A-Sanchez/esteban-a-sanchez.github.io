@@ -1,45 +1,103 @@
 ---
-title: "I hear the waves crashing"
-date: 2025-03-14
+title: "London Impressions (written someplace else)"
+date: 2025-11-11
 layout: fiction
-image: "/assets/images/waves.jpg"
-excerpt: "Recipient of The Avril Gilchrist Bruten Award for Creative Writing Shortlist 2025"
+image: "/assets/images/london.jpg"
+excerpt: "making sense of"
 ---
 <head>
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
-<h2 class="chapter-title">1.</h2>
+In the winters, my skin grows white and pale. In the mirror of the pub bathroom, I notice my olive undertones.
+In the summers, my skin is brown and golden. Even five minutes in the sun darkens it — beige, then tan, then the color of bark.
+For the last month, I’ve watched the garden grow wild. The fallow grass becomes pine green. I can sit in the grass and not be seen.
+Orange foxes break holes through the fence. A black cat eats the bluebells that glow purple at dusk. The rapeseed blooms, and fields are yellow.
+I grab a beer from the fridge and watch your cousins chase the dog through the garden. They have strawberry-blonde hair, pale pink shoes.
+The boy falls and scrapes his knee. Black and red. He brushes himself off, acts brave a few moments longer, then runs inside.
+The sun sets. The world pink, then blue, then grey. I smoke. Orange and red.
+The bodies of the playing children become part of the blackness.
+I have never seen viridian.
 
-With each passing day, I think I look more like my father. Though everyone tells me I look like my mother. The wind comes through the open window. Or maybe it’s a car passing. I’m not sure because I am distracted by the sight of myself in the mirror. I wipe away the steam to see that my body is brown behind the grey of its surface. When I was younger, I had brown, thin, and straight hair. My skin was lighter then too–– you call out to me through the door. You are waiting for me. We are going out for a drink. I have shaving cream below my ear. I wipe it away quickly. I open the door. The room is filled with cardboard boxes, bulging because you packed them too tightly. I lean against the door frame. You lean against the windowsill. With your head turned away from me, I take in your profile. Your sharp jaw and thin nose.
+I have spent my twenties here.
+I no longer duck under chain-link fences or hide with you in thickets of birchwood trees.
+I no longer find my way in the dark by the reflection of the moon on your shoulders.
+Now I hold your arm as I pull you through the busy crowds of Oxford Street.
+Now I walk into restaurants and say, “Can we sit at the bar?”
+Say, “Two glasses of red.”
+I smoke in bed before dinner.
+I run to the Tesco on the corner for a bottle of wine and a bag of onions.
+I get angry more, I think.
+When I talk about living in Massachusetts, I use the past tense.
+I make us take the train out to Somerset. I need silence more.
+I mean, I like to be reminded of somewhere else.
 
-“We look like all the other people. Look at them come out of the restaurants. I like watching them talk to one another, like how they walk arm in arm and laugh as they get into their cars.” you say. “I like the sound of their car engines. They have felt everything before. I heard when we dream we cannot imagine new faces.”
+That June you had obligations.
+So I spent my days in Victoria Park.
+I was reading the Tractatus then.
+You entered through the south gate, checked your phone, walked toward me.
+You always carried two canned gin & tonics, which you waved when you thought I had seen you.
+You sat down beside me and said things like, “I hear the waves crashing.”
+Except, you meant the sound of the wind rushing down the hill, kicking up dead leaves, cigarette butts, a crushed beer can.
+I wanted to learn how to use words like that.
+But I am still learning to say simple things.
+My frustrations that we always forewent the formalities and structures that made loving people easier.
+That with others, I could not explain you.
+And that despite my own selfish wishes, I had to be able to explain you.
+So I try, always in a roundabout way, with a story I came up with just the moment before.
+Is that right? “I hear the waves crashing.”
+That’s a story.
+When I am ready, I will write that on my skin.
 
-Everything is packed except your keyboard, which is still set up in the corner. And the sheet music you had taped to the wall. Also, a book shelf that we decided could not be moved. In place of books sat cleaning supplies, our phone chargers, your video camera. Earlier that evening, we had separated our books, and debated about who would have the ones that were bought and read together. You took most of them because you argued so forcefully and I was surprised by that, because who got what seemed so besides the point or maybe I couldn’t get my head around what was happening. We were moving, yes. You were taking the morning Greyhound to Minneapolis. I was getting on a flight to Charlotte. Those facts I knew. But I did not know that it entailed that we now owned things that could not be shared and I suddenly felt stupid for giving you most of my things. And if this meant all that, I needed to know, now, what you thought. You are leaning against the windowsill. I try to say your name, but it comes out quiet and coarse. I clear my throat before asking if I look more like my father or like my mother. Your eyes look me up and down. They have something else on their mind before they consider the question. I am uncomfortable and embarrassed. You look to the side. Your sharp jaw and thin nose.
+And how much relief I feel when I meet someone in the pub, or outside the library, or at the gym — someone for whom I need no fictions.
+I conjure up no stories.
+When the rain begins to fall against the pub window, I say, “I will wait for the rain to pass.”
+They say, “I will get us another drink.”
+I tell him, “It has been a while since I have believed in the affects of God.”
+I tell her, “When I showered, the water smelled like smoke too.”
+“There are no fires here,” he says.
+“Here, the fog rises from the river,” she says.
+“The rain will fall for another hour,” I say.
+It will be dark then, but we will not know the difference.
 
-“You have brown skin, brown eyes and black hair. ” you say.
+I bike drunk through a crowd of people.
+They all have the same face.
+They all part for me.
+I have never managed very well, saying goodbye to everyone I need to.
+I desire the company of others differently.
+I feel everything suddenly and all at once, like a sharp rebuke from an otherwise kind friend.
+I met your grandfather wearing your father’s coat.
+I took three suitcases through Birmingham.
+You switched trains there.
+I gave you a purple plate I made myself.
+You gave me patience.
+You told me that “I am the only one who has ever been kind to you.” I was not sure if that was true or not.
+In Birmingham New Street, the crowd of people all have the same face.
 
-I’ve never gotten good at sleeping the night before a flight. Especially not when the room smells of cardboard and the walls look unfamiliar in emptiness. The inflatable mattress is too small for the two of us. So, I lay half in the crevice between the wall and the bed. My arm is numb. I don’t mind because the wall is cool and your hair rustles in the hot breeze of a spinning fan. It has begun to rain. One of those late summer rains. Loud and heavy. I almost want to get up and stand under it. But you are sleeping and if I move I will wake you.
-
-“We look like all the other people.” you said.
-
-I fell asleep to the sound of pouring rain. I woke up to the same noise as if each drop of water landed on precisely the same spot. On the same blades of grass. The same rooftops. And the same passing cars in the street. Or maybe, I cannot discern its difference, or its empathy. Maybe it wanted me to know that it was there, just as it had been when I climbed the stairs to find you–– when I opened the door to your room, always too cluttered and smelling of damp wood, old paper and sweat. The air was thick and muggy. Like it is now. Like it always is in New England. I had come to get you for dinner, but instead we spoke as the rain fell through the open window onto our backs. You reminded me of when we got caught in a storm, biking to the reservoir. We had planned to slip below the chain-link fence and swim to cool down, but the rain had beat us to it and had done the job for us. To get back home, we cut through the dairy farms because you still were not comfortable biking on busy roads. I stopped under the maple trees to wait for you and the rain sounded the same then too. I open my eyes. You are awake. You have ice blue eyes. We do not speak. We just stare and look at each other. The rain falls.
-
-<h2 class="chapter-title">2.</h2>
-
-You told me once: I hear the waves crashing. Except, you meant the sound of the wind rushing down the street, kicking up dead leaves, cigarette butts, a crushed beer car. I liked when you said that. I hear the waves crashing. I have been trying to teach myself how to use words like that. 
-
-And now, I am sitting on the beach waiting to see you again and I am listening to the waves crash and I am trying to piece together what you meant by that. I cannot seem to get anywhere though because I keep getting carried away in the memory. As I sit in the sand, I want to remind you of the memory too. But I don’t know how to say it and I’m scared of how I would feel if you didn’t remember. After all, my seeing you now is only the product of a coincidence. You are in Los Angeles to see your uncle, who moved down here to start a real estate business. I am here to see my brother. I keep on having to brush away the thought that all of this is held together by something as weak as that. A text: we should grab a beer sometime. I pick up a handful of sand and let its stream through my fingers.
-
-You sit down next to me. Hug me. And I feel your breasts against my chest. I don’t know how to say the memory. I don’t have words like that, words for that. So instead, I tell you a story, in a roundabout way, which I came up with just the moment before. I want you to see the point, because if you did I think you would ask more and take less. I’m not sure if you do or not, but you ask me a few questions about it and laugh it away. You talk to me about some new projects you are working on, but it feels awkward and I’m frustrated, or maybe you are, by me constantly having to ask about simple facts, like if Chloe was still your roommate or if that was the same Sam that we both knew. Eventually, we have nothing else to say to one another. I rest my head on your shoulders, you run your hand through my hair, and I let out a sigh of relief.
-
-The water is unusually warm for this time of year. We wade through the breaking waves. I trip from seaweed wrapped around my ankle. You smile and laugh as I try yanking it off of me. You spit out the water that comes into your mouth. When I am next to you and you reach out to me, grab my elbow, everything is quiet. The wind, coming from the sea, blows away the noises from the city and the children running and yelling on the beach. I hear your tiring breath. I float on my back. You dive in and out of the water.
-
-You leave sooner than I was expecting. It is a Wednesday. I have nothing better to do, so I wander up and down the beach. I stare at the people. A nanny yells “that's too far out now James, that's too far out!” to a child with sand-coloured hair. Others stop to peer into tide pools, pick up seashells, kick up sand with their feet. I wonder if I look like them. 
-
-I am back in the water. I taste salt on the corner of my lips. I float on my back. With my ears underwater, the world thunders and trembles. Sound is distant and muffled. When you left, I tried to say the words how you meant them. I’m not sure which I said.
-
-So this ceremony (my floating alone here in the water), is to say “I miss you.” And I mistake the lazy breeze of the Pacific for soft phantoms; those random patches of warm water for your approaching body (your reaching out, your grabbing of my elbow); all those sounds and colors for what you mean to me and what I cannot say because it is right there in front of me. It’s like when a dolphin jumped out of the water and a mother exclaimed “Dolphin!” and her child could only say “What? Where?” For when the thing is there in front of you, it's better to point and yell “Look there! Just there!” Yes, that’s it! I want most of all for you to open your eyes so I can speak by pointing and saying only “Here it is, this is what you mean to me.”
-
-<h2 class="chapter-title">3.</h2>
-
-I remember how those words sounded, said back to myself, as the water lapped in and out of my ears. But now, I cannot distinguish them from the sound of being underwater–– they are distant and warped, easily mistaken. Sound is always the first to go. The harder I try, the more your voice just sounds like my voice, then like anybody’s voice, then like no voice at all. I look forward to the day when the images will fade too, when they will become confused and blurred like those dreams where I feel drunk and cannot see. Maybe then, it will not seem worthwhile to hold on to them. I prop open the window above my bed. I cannot sleep. I am too warm and too cold and irritated by the warm breeze of the spinning fan. I look out the window because I hear people talking down on the street below. I hear the sound of helicopters. I hear ambulances and police cars. I hear someone pounding on a door. Yelling to be let in. A baby cries. On the street below, people dine under canopies. They all know each other. They all speak and laugh. They stand in huddles on the sidewalk, waiting to be seated. They walk in and out of the cinema. A car drives by. Its engine is loud. A man sits on a bench and lights a pipe. Another helicopter flies by. It is probably the police or the evening news. The sound of breaking glass. The sound of hooves on concrete. Two people on horseback walk down the side of the road. One horse is brown. The other is white. Children run in between them. The cars stop for them. They all speak and laugh. I hear the sound of a cowbell. Then it’s you looking at me. You smile and laugh. You kiss me. And laugh. You grab my hand and pull me inside a bar. A crowd surrounds four men making sounds and gestures with their bodies. The one with curly hair jumps up and down around me. Pounding against a cowbell. The trumpet. The drums. Most of all I remember the cowbell. I ask you to buy me a drink because the bar is packed and you always had a way of squeezing through the crowds, of saying “Can I get two glasses of red?” I step outside to wait for you and also to smoke. A child falls and scrapes his knee. A girl stops and asks if he is alright. He brushes himself off and runs after the other children. The song changes and someone plays a saxophone. Across the street, a man smokes a cigarette in the doorway of a bottega. Girls lean into the windows of cars. There it is! Across the street. They point and laugh. They run after the car. A man walks down the street. He is not wearing pants. His penis occasionally falls out from underneath his shirt. He has a crowbar in his hand. Rats tap along the ground and squeal as they bite one another. The man enters an alleyway where a crowd stands in silence. Somewhere, an Eydie Gorme song plays. Glasses clang together. Someone shouts drink orders. Rum and Coke! Double Tequila and lime! Some people stop to take photos. The camera snaps and flashes. A car stops in the middle of the road. A man leans his head out the window, yells. I stand waiting for you. The neon signs make sound. The squealing of tires. The crowds move around me like I was a lamp post or an overfilled trash can. A bell jingles as a door opens. I see you in the doorway, looking up and down the street for me. I call out to you as the crowds pull me away, you see me and say something except your voice becomes part of all those other sounds. The sounds which grow louder and louder until they become white noise and then I hear the waves crashing and then it is silent. 
+I go upstairs to call you for dinner.
+I find you in the attic bedroom.
+I duck below the crossbeam, press my hand against the slanted ceiling as I approach you.
+We sit in silence, listening to the taking in of glasses, the putting away of glasses, the sound of people smoking on the porch, your roommate yelling something about the sausages burning on the grill.
+A dog barks.
+We sit in silence as the thunderstorm rolls in, as rain falls in waves onto the roof and through the open window onto our backs.
+Your hands are rougher than mine.
+I share with you my brief discovery. You say nothing.
+You are upset with me for leaving, I think.
+Somehow, I returned with less than I left with.
+A missing purple plate.
+My black jacket.
+“Is the difference between the two moments as fragile as that?” you ask.
+“I am only a visitor here,” I say.
+That upsets you. I think.
+“This is mine, not yours” one of us says.
+This moment of silence is all that I will get.
+I turn and look out the window toward a thicket of birchwood trees.
+People run to and from the grill, laughing, covering food from the rain as they run inside.
+There is a structure to it all, I think, looking out the window.
+One that I give and know by wanting.
+But what good does it do?
+Can it describe an attic that is brown and smells of wood and damp and dust?
+The yellow light of the sun breaking through the clouds?
+The green reflection of leaves in the corner of my eyes?
+The red pooling at the bottom of the wine glass on the desk?
+The silver line of water running along the gutter?
+I have never seen viridian.
