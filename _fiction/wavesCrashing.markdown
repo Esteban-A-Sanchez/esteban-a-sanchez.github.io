@@ -3,7 +3,7 @@ title: "London Impressions (written someplace else)"
 date: 2025-11-11
 layout: fiction
 image: "/assets/images/london.jpg"
-excerpt: "making sense of"
+excerpt: " "
 ---
 <head>
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
@@ -40,7 +40,7 @@ You sat down beside me and said things like, “I hear the waves crashing.”
 Except, you meant the sound of the wind rushing down the hill, kicking up dead leaves, cigarette butts, a crushed beer can.
 I wanted to learn how to use words like that.
 But I am still learning to say simple things.
-My frustrations that we always forewent the formalities and structures that made loving people easier.
+Like My frustrations that we always forewent the formalities and structures that made loving people easier.
 That with others, I could not explain you.
 And that despite my own selfish wishes, I had to be able to explain you.
 So I try, always in a roundabout way, with a story I came up with just the moment before.
@@ -48,7 +48,7 @@ Is that right? “I hear the waves crashing.”
 That’s a story.
 When I am ready, I will write that on my skin.
 
-And how much relief I feel when I meet someone in the pub, or outside the library, or at the gym — someone for whom I need no fictions.
+And how much relief I feel when I meet someone in the pub, or outside the library, or at the gym— someone for whom I need no fictions.
 I conjure up no stories.
 When the rain begins to fall against the pub window, I say, “I will wait for the rain to pass.”
 They say, “I will get us another drink.”
@@ -89,7 +89,7 @@ My black jacket.
 “I am only a visitor here,” I say.
 That upsets you. I think.
 “This is mine, not yours” one of us says.
-This moment of silence is all that I will get.
+This moment of silence is all that we will get.
 I turn and look out the window toward a thicket of birchwood trees.
 People run to and from the grill, laughing, covering food from the rain as they run inside.
 There is a structure to it all, I think, looking out the window.
