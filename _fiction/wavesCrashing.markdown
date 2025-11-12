@@ -9,7 +9,7 @@ excerpt: " "
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 In the winters, my skin grows white and pale. In the mirror of the pub bathroom, I notice my olive undertones.
-In the summers, my skin is brown and golden. Even five minutes in the sun darkens it — beige, then tan, then the color of bark.
+In the summers, my skin is brown and golden. Even five minutes in the sun darkens it. Beige, then tan, then the color of bark.
 For the last month, I’ve watched the garden grow wild. The fallow grass becomes pine green. I can sit in the grass and not be seen.
 Orange foxes break holes through the fence. A black cat eats the bluebells that glow purple at dusk. The rapeseed blooms, and fields are yellow.
 I grab a beer from the fridge and watch your cousins chase the dog through the garden. They have strawberry-blonde hair, pale pink shoes.
@@ -40,7 +40,7 @@ You sat down beside me and said things like, “I hear the waves crashing.”
 Except, you meant the sound of the wind rushing down the hill, kicking up dead leaves, cigarette butts, a crushed beer can.
 I wanted to learn how to use words like that.
 But I am still learning to say simple things.
-Like My frustrations that we always forewent the formalities and structures that made loving people easier.
+Like my frustrations that we always forewent the formalities and structures that made loving people easier.
 That with others, I could not explain you.
 And that despite my own selfish wishes, I had to be able to explain you.
 So I try, always in a roundabout way, with a story I came up with just the moment before.
